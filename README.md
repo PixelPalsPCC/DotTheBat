@@ -6,3 +6,4 @@ Find an image to load so you can click on it such as one like https://unsplash.c
 
 Photo by <a href="https://unsplash.com/@plate_stories_tsi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">TSI</a> on <a href="https://unsplash.com/photos/a-group-of-small-objects-with-faces-n8RpJffFXZc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
       
+![Alt text](Bat.png "An image of bat waiting to be clicked on")
