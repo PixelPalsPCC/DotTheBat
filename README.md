@@ -1,6 +1,6 @@
 # DotTheBat
 
-This project loads an image sourced from monkeypen.com of a bat chilling out. The goal is to connect the dots to complete drawing an outline of the creature. Each click save a point in an array list that is used in the draw function to draw vertices.
+This project loads an image sourced from unsplash.com of a bat chilling out. The goal is to connect the dots to complete drawing an outline of the creature. Each click save a point in an array list that is used in the draw function to draw vertices.
 
 Find an image to load so you can click on it such as one like https://unsplash.com/photos/a-group-of-small-objects-with-faces-n8RpJffFXZc
 
